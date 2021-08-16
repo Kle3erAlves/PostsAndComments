@@ -1,0 +1,13 @@
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\bin\Debug\netcoreapp3.1\PostsAndComments.exe
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\bin\Debug\netcoreapp3.1\PostsAndComments.deps.json
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\bin\Debug\netcoreapp3.1\PostsAndComments.runtimeconfig.json
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\bin\Debug\netcoreapp3.1\PostsAndComments.runtimeconfig.dev.json
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\bin\Debug\netcoreapp3.1\PostsAndComments.dll
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\bin\Debug\netcoreapp3.1\PostsAndComments.pdb
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\obj\Debug\netcoreapp3.1\PostsAndComments.csprojAssemblyReference.cache
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\obj\Debug\netcoreapp3.1\PostsAndComments.AssemblyInfoInputs.cache
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\obj\Debug\netcoreapp3.1\PostsAndComments.AssemblyInfo.cs
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\obj\Debug\netcoreapp3.1\PostsAndComments.csproj.CoreCompileInputs.cache
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\obj\Debug\netcoreapp3.1\PostsAndComments.dll
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\obj\Debug\netcoreapp3.1\PostsAndComments.pdb
+C:\Users\klebe\source\repos\PostsAndComments\PostsAndComments\obj\Debug\netcoreapp3.1\PostsAndComments.genruntimeconfig.cache
